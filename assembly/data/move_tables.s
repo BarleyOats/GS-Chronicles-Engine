@@ -491,6 +491,7 @@ gSheerForceBoostedMoves:
 .hword MOVE_ANCHORSHOT
 .hword MOVE_ANCIENTPOWER
 .hword MOVE_APPLEACID
+.hword MOVE_AQUA_SCALES
 .hword MOVE_ASTONISH
 .hword MOVE_AURORABEAM
 .hword MOVE_BITE
@@ -663,7 +664,6 @@ gRecklessBoostedMoves:
 .hword MOVE_TAKEDOWN
 .hword MOVE_VOLTTACKLE
 .hword MOVE_WOODHAMMER
-.hword MOVE_WILDCHARGE
 .hword MOVE_TABLES_TERMIN
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -922,7 +922,6 @@ gAlwaysCriticalMoves:
 .hword MOVE_FROSTBREATH
 .hword MOVE_SURGINGSTRIKES
 .hword MOVE_WICKEDBLOW
-.hword MOVE_DRAGON_CRUSH
 .hword MOVE_TABLES_TERMIN
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -1082,7 +1081,6 @@ gTwoStrikesMoves:
 gPercent25RecoilMoves:
 .hword MOVE_TAKEDOWN
 .hword MOVE_SUBMISSION
-.hword MOVE_WILDCHARGE
 .hword MOVE_HEADCHARGE
 .hword MOVE_TABLES_TERMIN
 
